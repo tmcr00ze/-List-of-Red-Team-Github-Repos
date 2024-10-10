@@ -1,9 +1,14 @@
 # List of Red Team Github Repos
 https://github.com/d0nkeys/redteam
+
 https://github.com/r0eXpeR/redteam_vul
+
 https://github.com/nccgroup/demiguise
+
 https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
+
 https://github.com/Threekiii/Awesome-Redteam
+
 https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 https://github.com/fengjixuchui/RedTeamer
 https://github.com/lengjibo/RedTeamTools
